@@ -1,0 +1,26 @@
+# Arquivos compilados e cache de build
+target/
+build/
+.mvn/
+
+# Controle de versão
+.git/
+.gitignore
+
+# Configurações de editores e IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Variáveis de ambiente locais e logs
+.env
+*.log
+
+# Arquivos do próprio Docker
+Dockerfile
+.dockerignore
+compose.yaml
+docker-compose.yml
