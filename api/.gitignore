@@ -34,3 +34,11 @@ build/
 
 ### env ###
 .env
+
+### JWT keys ###
+src/main/resources/app.key
+src/main/resources/app.pub
+
+### VS CODE ###
+
+.vscode/
